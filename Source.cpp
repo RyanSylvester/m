@@ -1,4 +1,6 @@
 
+// Change
+
 #include "stdio.h"
 #include "iostream"
 #include "time.h"
@@ -32,4 +34,4 @@ void main()
 {
 	part1();
 }
-//
+
